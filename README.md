@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikita Ashok Lohar</h1>
 
-<a href="https://www.linkedin.com/in/nikkilohar/" target="_blank"><img align="center" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikkilohar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/nikitalohar/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-lohar" height="30" width="40" /></a>
 
 &nbsp;
 <h3 align="center">I am passionate frontend developer.</h3>
