@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikita Ashok Lohar</h1>
+
+<a href="https://www.linkedin.com/in/nikkilohar/" target="_blank"><img align="center" height="30" width="40" /></a>
+
+&nbsp;
 <h3 align="center">I am passionate frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkilohar&label=Profile%20views&color=0e75b6&style=flat" alt="nikkilohar" /> </p>
