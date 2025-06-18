@@ -1,27 +1,19 @@
-<h1 align="center">Hi 👋, I'm Nikita Ashok Lohar</h1>
+<h1 align="center">Hey👋, I'm Nikita Ashok Lohar</h>
+                                                 
+## Welcome to Profile! &nbsp; 
 
-<a href="https://www.linkedin.com/in/nikkilohar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/nikitalohar/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-lohar" height="30" width="40" /></a>
+I am a Full-stack Web Developer. Creating digital experiences I love❤️
 
-&nbsp;
-<h3 align="center">I am passionate frontend developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkilohar&label=Profile%20views&color=0e75b6&style=flat" alt="nikkilohar" /> </p>
+## Talking about Personal Stuff:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikkilohar" alt="nikkilohar" /></a> </p>
+- 👨‍🎓 I'm getting a **PhD in Computer Science**
 
-- 🔭 I’m currently working on **Student**
+- 🔭 I’m currently working as **Lecturer**
 
-- 🌱 I’m currently learning **React.js & Angular.js**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 🤝 I’m looking for help with **Friends**
+- 💬 Ask me about anything, I am happy to help
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikkilohar](https://github.com/nikkilohar)
-
-- 💬 Ask me about **Frontend development & Java Programming**
-
-- 📫 How to reach me **nikita.lohar297@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1VS2haIqzxEUU2DxF4eVtklgyCOjQkcPg](https://drive.google.com/drive/folders/1VS2haIqzxEUU2DxF4eVtklgyCOjQkcPg)
 
