@@ -7,8 +7,6 @@ I am a Full-stack Web Developer. Creating digital experiences I love❤️
 
 ## Talking about Personal Stuff:
 
-- 👨‍🎓 I'm getting a **PhD in Computer Science**
-
 - 🔭 I’m currently working as **Lecturer**
 
 - 💬 Ask me about anything, I am happy to help
