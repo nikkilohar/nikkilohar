@@ -7,7 +7,7 @@ I am a Full-stack Web Developer. Creating digital experiences I love❤️
 
 ## Talking about Personal Stuff:
 
-- 🔭 I’m currently working as **Lecturer**
+- 🔭 I’m currently working as **Assistant Professor**
 
 - 💬 Ask me about anything, I am happy to help
 
